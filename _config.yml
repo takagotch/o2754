@@ -10,8 +10,10 @@ markdown:    rdiscount
 rdiscount:
   extensions: [smart]
 
+url 
+baseurl : https://takagotch.github.io/page77/
 # This is the default base url path.
-BASE_PATH : http://meliodus.github.io/
+BASE_PATH : https://takagotch.github.io/page77/
 
 # Website title.
 title : talk2ankan<small>Introvert Geek Diaries</small>
