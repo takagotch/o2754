@@ -35,16 +35,16 @@ permalink: /:title
 ###########################
 author:
 # Info
-  name: Ankan Biswas
+  name: Takashi Yoshioka
   role: Computer Programmer
   email: meliodus@tutanota.com
   image: images/ankan.png
 # Social
-  github: meliodus
-  twitter: talk2ankan
-  facebook: talk2ankan
-  soundcloud: meliodus
-  reddit: talk2ankan
+  github: takagotch
+  twitter: takagotch
+  facebook: takagotch
+  soundcloud: takagotch
+  reddit: takagotch
 #  About
   about: "Salutation, this is my-space my-world. I dream , i hallucinate, i am curious and ambitious."
 # copyright
@@ -57,3 +57,5 @@ safe:    false
 # For more see: https://github.com/jekyll/jekyll-sitemap
 gems:
   - jekyll-sitemap
+
+
