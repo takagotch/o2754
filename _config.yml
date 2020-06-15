@@ -10,7 +10,7 @@ markdown:    rdiscount
 rdiscount:
   extensions: [smart]
 
-url 
+url     : https://takagotch.github.io/page77/
 baseurl : https://takagotch.github.io/page77/
 # This is the default base url path.
 BASE_PATH : https://takagotch.github.io/page77/
